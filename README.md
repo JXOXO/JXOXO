@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Banner]()
+
+
 # 💫 About Me:
 🔭 Currently working on: A medical service application.<br>🌱 Currently going deeper in: C++ by building a WarZone game.<br>🌱 Currently learning: System Security.<br>⚽ Interests: When I'm not coding, you can find me playing football or hitting the gym.<br>🤝 I’m always open to collaboration and love connecting with others working on cool projects!
 
