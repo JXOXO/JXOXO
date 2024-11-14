@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Banner](https://github.com/JXOXO/Portfolio/blob/main/Make%20your%20README.png)
+![Banner](https://github.com/JXOXO/Portfo/blob/main/Make%20your%20README.png)
 
 
 # 💫 About Me:
