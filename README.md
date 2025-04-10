@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🔭 Currently working on: A medical service application.<br>🔭 Currently improving my skills in python.<br>🌱 Currently going deeper in: C++ by building a WarZone game.<br>🌱 Currently learning: System Security.<br>⚽ Interests: When I'm not coding, you can find me playing football or hitting the gym.<br>🤝 I’m always open to collaboration and love connecting with others working on cool projects!
+🔭 Currently working on: A medical service application.<br>🔭 Currently improving my skills in python.<br>🌱 Currently going deeper in: Data Systems.<br>🌱 Currently learning: Data Communications & Computer Networks.<br>⚽ Interests: When I'm not coding, you can find me playing football or hitting the gym.<br>🤝 I’m always open to collaboration and love connecting with others working on cool projects!
 
 
 ## 🌐 Socials:
